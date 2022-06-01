@@ -1,0 +1,10 @@
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\bin\Debug\LoginSimple.exe.config
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\bin\Debug\LoginSimple.exe
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\bin\Debug\LoginSimple.pdb
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csprojAssemblyReference.cache
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.Form1.resources
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.Properties.Resources.resources
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.GenerateResource.cache
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.CoreCompileInputs.cache
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.exe
+C:\Users\Campo\Downloads\Pensamiento Computacional\LoginSimple\LoginSimple\obj\Debug\LoginSimple.pdb
